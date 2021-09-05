@@ -1,0 +1,47 @@
+* {
+    margin: 5px;
+}
+
+body {
+    background-color: #CFC;
+}
+
+
+p{
+    padding: 5px;
+}
+
+.primary-text{
+    color: #00F;
+    font-family: Georgia, Cambria, serif;
+    font-size: 16px;
+}
+
+.bg-primary-text{
+    color: #fff;
+    background-color: #000;
+    font-family: Georgia, Cambria, serif;
+    font-size: 16px;
+}
+
+.secondary-text{
+    color: #679F5E !important;
+    font-family: Georgia, Cambria, serif;
+    font-size: 16px;
+}
+
+.header-primary-color{
+    color: #F00;
+    font-family: Verdana, Calibri, sans-serif;
+    font-size: 32px;
+}
+
+.header-secondary-color{
+    color: #79251B;
+    font-family: Verdana, Calibri, sans-serif;
+    font-size: 32px;
+}
+
+.space{
+    padding: 2px;
+}

@@ -1,0 +1,44 @@
+* {
+    margin: 5px;
+}
+
+hr {
+    border-color: #1313FF;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.col {
+    flex-basis: 100%;
+    flex: 1;
+}
+
+img {
+    width: 75px;
+}
+
+.img-float-right {
+    float: right;
+}
+
+.img-float-left {
+    float: left;
+}
+
+.space {
+    padding: 15px;
+}
+
+.text-center {
+    text-align: center;
+}
